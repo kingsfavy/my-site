@@ -156,6 +156,7 @@ img{
   position:absolute;
 }
 .name{
+  z-index: -1;
   font-weight:bolder;
  position:absolute;
   z-index:0;
