@@ -111,6 +111,7 @@ container {
   color:white;
 }
 img{
+  filter:saturate (150%);
   overflow:hidden;
   max-width:100%;
   max-height:auto;
@@ -332,6 +333,7 @@ width:20%;
       overflow:hidden;
       text-align:center;
       position:relative;
+      filter: saturate (150%);
          }
       
       body{
